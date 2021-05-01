@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Inspired by MicRogue, we built a chess-style, Roguelike game that
+features:
+- Randomly generated terrain and monsters for each level
+- Unique movement patterns and interactions for each monster
+- Strategic gameplay using traps and shields
+- 100% Hand-drawn graphics using Piskel
+
+To play the game go to:
+https://www.greenfoot.org/scenarios/27765
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Run project in the Greenfoot environment
+AUTHORS: Alexander Yee, Daniel Tan, Zhongchi Li, Deston Wong, Justin Huynh
